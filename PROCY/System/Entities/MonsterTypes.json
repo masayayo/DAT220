@@ -1,0 +1,17 @@
+{
+	"default": [
+		"Texture/Texture/ryuk.png",
+		1,
+		10,
+		100,
+		10
+	],
+
+	"_format": [
+		"texturePath",
+		"speed",
+		"value",
+		"maxHealth",
+		"damage"
+	]
+}

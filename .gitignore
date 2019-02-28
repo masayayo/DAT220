@@ -18,6 +18,15 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Project-specifics
+.idea
+cmake-build-debug
+cmake-build-release
+*.o
+*.swp
+*.tmp
+**/*.log
+
 # =========================
 # Operating System Files
 # =========================

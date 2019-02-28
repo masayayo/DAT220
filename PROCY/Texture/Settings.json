@@ -1,0 +1,21 @@
+{
+    "anti": 0,
+    "bullets": true,
+    "fps": 0,
+    "language": "English",
+    "music": 50,
+    "mute": false,
+    "name": "Player",
+    "sound": 50,
+    "startView": 10.0,
+    "sync": false,
+    "system": 50,
+    "texture": false,
+    "tilesOut": 2.0,
+    "version": "pre-alpha",
+    "viewSpeed": 8.0,
+    "wFullScreen": false,
+    "wHeight": 720,
+    "wWidth": 1280,
+    "zoom": 5.0
+}
