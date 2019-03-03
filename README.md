@@ -24,7 +24,7 @@ After installing the IDE and launching it for the first time the program should 
 
 On the next prompt you will be asked to either create a new project or open a project folder. Choose to locate a project folder and locate the extracted folder of this project. It should recognize it as a project.
 
-After opening the project, you have to link the required libraries. To do this, first go to ``View -> Tool Windows -> CMake``, the on the bottom left side click on the cogwheel and choose ``CMake settings``. Assuming that the compiler path is in ``C:/mingw64`` and the path to the libraries is in ``C:/dev/libs/`` copy and paste the following:
+After opening the project, you have to link the required libraries. To do this, first go to ``View -> Tool Windows -> CMake``, then on the bottom left side click on the cogwheel and choose ``CMake settings``. Assuming that the compiler path is in ``C:/mingw64`` and the path to the libraries is in ``C:/dev/libs/`` copy and paste the following:
 ```
 -D CMAKE_CXX_COMPILER=C:/mingw64/bin/gcc.exe -DCMAKE_CXX_FLAGS="-IC:/dev/libs/SFML/include -IC:/dev/libs/TGUI/include -IC:/dev/libs/PLOG/include" -DCMAKE_EXE_LINKER_FLAGS="-LC:/dev/libs/SFML/lib -LC:/dev/libs/TGUI/lib"
 ```
