@@ -1,7 +1,7 @@
 # Project Cyan - A Tower Defense Game
-
+![Preview of the project](https://raw.githubusercontent.com/mflottDesign/dat220/master/preview.png)
 ## About the project
-Project Cyan was the final project for the course DAT220 at the University of Agder. The idea was to create a "new" type of Tower Defense genre game that would combine good aspects of other games into something more complete. The main things that inspired the things included in the project were Warcraft III's in-game UI and possibility for fanmade content, Trackmania's in-game editor (which resulted in an in-game map editor), Minecrafts intuitive settings menu and bloons easy-to-use upgrade and targeting system. By combining these features into a concept the project aimed to achieve a higher level of complexity to the gameplay as well as more possibilities for playermade content within the project period.
+Project Cyan was the final project for the course DAT220 at the University of Agder. The idea was to create a "new" type of Tower Defense genre game that would combine good aspects of other games into something more complete. The main things that inspired the things included in the project were Warcraft III's in-game UI and possibility for fanmade content, Trackmania's in-game editor (which resulted in an in-game map editor), Minecrafts intuitive settings menu and bloons easy-to-use upgrade and targeting system. By combining these features into a concept the project aimed to achieve a higher level of complexity to the gameplay as well as more possibilities for playermade content within the project period. While it did not end up being a complete product, a lot of the groundwork was done for planned features.
 
 This project was done in collaboration with Christer Steffensen Mathisen.
 
